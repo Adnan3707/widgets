@@ -7,6 +7,7 @@ import Route from './components/Route';
 import Header from './components/Header';
 import './App.css';
 
+// Start apps
 const items = [
   {
     title: 'What is React?',
